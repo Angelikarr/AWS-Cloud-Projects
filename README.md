@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelica Madu</h1>
-<h3 align="center">I'm a Highly Analytical Data Analyst with a strong foundation in data storytelling, visualization, and analysis using tools like Excel, Power BI, SQL, R and Quicksight. Currently building expertise in cloud architecture through hands-on AWS training, I’m focused on designing scalable, data-driven solutions that align with business goals. My work sits at the intersection of analytics and cloud engineering,translating data insights into systems that support performance,security,and growth.</h3>
+<h3 align="center">I'm a Highly Analytical Data Analyst with a strong foundation in data storytelling, visualization, and analysis using tools like Excel, Power BI, SQL, R and AWS Quicksight. Currently building expertise in cloud architecture through hands-on AWS training, I’m focused on designing scalable, data-driven solutions that align with business goals. My work sits at the intersection of analytics and cloud engineering,translating data insights into systems that support performance,security,and growth.</h3>
 
 - 🌱 I’m currently learning **AWS, Python**
 
