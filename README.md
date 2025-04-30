@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, Python**
 
-- 👯 I’m looking to collaborate on **E-commerce Analytics using AWS Quicksight and AWS Athena **
+- 👯 I’m looking to collaborate on E-commerce Analytics using AWS Quicksight and AWS Athena
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Angelica](https://www.datascienceportfol.io/Angelica)
 
